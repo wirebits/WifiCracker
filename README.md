@@ -14,7 +14,7 @@ The testing is going on different systems.
 1. Download or Clone the Repository.<br>
 2. Open the folder.<br>
 3. In Windows, just double click on the <b>WifiCracker.py</b>.<br>
-4. In Linux, type the following command : <br>
+4. In Linux, type the following command : <br><br>
 
 ```
 sudo python3 WifiCracker.py
